@@ -19,7 +19,7 @@ void main()
     else 
     {
         printf("The points are not collinear.");
-    }
+    }  
 
-    
+
 }
