@@ -1,0 +1,2 @@
+Hello! File handling is easy.
+Also, It Has a great use in coding as well.
