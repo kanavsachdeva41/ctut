@@ -12,6 +12,5 @@ void main()
     printf("Addition of %d and %d is: %d\n", a, b, ADD(a, b));
     printf("Subtraction of %d and %d is: %d\n", a, b, SUB(a, b));
     printf("Multiplication of %d and %d is: %d\n", a, b, PRO(a, b));
-    printf("Division of %d by %d is: %d\n", a, b, QUO(a, b));
-
+    printf("Division of %d by %d is: %d\n", a, b, QUO(a, b))
 }
