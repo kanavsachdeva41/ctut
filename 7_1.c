@@ -17,4 +17,5 @@ int main()
     printf("Title: %s\n", mybook.title);
     printf("Author name: %s\n", mybook.author_name);
     printf("Price: %d", mybook.price);
+    return 0;
 }
